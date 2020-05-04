@@ -17,10 +17,12 @@ After loading, input your name and start messaging.
 
 ![User Input at load](https://i.postimg.cc/h4xJHR4B/1-input-your-name.jpg)
 
-User1 window: 
+### User1 window: 
+
 ![Imran Shaikh chat window](https://i.postimg.cc/fRWJt3cz/imran-chat.jpg)
 
-User2 window:
+### User2 window:
+
 ![Mahesh More chat window](https://i.postimg.cc/J45sz3BY/mahesh-chat.jpg)
 
 
